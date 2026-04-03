@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Satyam-2704/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Satyam-2704/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Satyam-2704/Leetcode/tree/main/0202-happy-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,4 +22,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Satyam-2704/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Satyam-2704/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Satyam-2704/Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
