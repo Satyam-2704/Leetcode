@@ -3,7 +3,6 @@ public:
     int firstUniqChar(string s) {
         int arr[26]={0};
         for(int i=0;i<s.length();i++){
-            int num=0;
             arr[s[i]-'a']++;
         }
         for(int j=0;j<s.length();j++){
