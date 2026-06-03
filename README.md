@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-2704/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam-2704/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam-2704/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Two Pointers
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0766-toeplitz-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam-2704/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
