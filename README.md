@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Satyam-2704/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Satyam-2704/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Satyam-2704/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Satyam-2704/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Satyam-2704/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam-2704/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
