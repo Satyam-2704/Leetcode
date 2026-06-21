@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/Satyam-2704/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam-2704/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam-2704/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/Satyam-2704/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Satyam-2704/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam-2704/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam-2704/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
