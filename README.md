@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Satyam-2704/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/Satyam-2704/Leetcode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 | [3941-password-strength](https://github.com/Satyam-2704/Leetcode/tree/main/3941-password-strength/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
