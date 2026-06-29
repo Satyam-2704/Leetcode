@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Satyam-2704/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Satyam-2704/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-2704/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Satyam-2704/Leetcode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Satyam-2704/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Satyam-2704/Leetcode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
