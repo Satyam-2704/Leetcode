@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/Satyam-2704/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Satyam-2704/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/Satyam-2704/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Satyam-2704/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Satyam-2704/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Satyam-2704/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Satyam-2704/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Satyam-2704/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Satyam-2704/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
