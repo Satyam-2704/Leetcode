@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-2704/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/Satyam-2704/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Satyam-2704/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-2704/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Satyam-2704/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Satyam-2704/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-2704/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam-2704/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Satyam-2704/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
