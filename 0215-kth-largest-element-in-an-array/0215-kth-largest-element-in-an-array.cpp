@@ -9,11 +9,11 @@ public:
         }
         while(!pq.empty()){
                 if(count==k-1){
-                    ans=pq.top();
+                    return pq.top();
                 }
             pq.pop();
             count++;
         }
-        return ans;  
+        return 0;
     }
 };
