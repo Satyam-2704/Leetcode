@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam-2704/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Satyam-2704/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam-2704/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam-2704/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-2704/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam-2704/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-2704/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam-2704/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Satyam-2704/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
