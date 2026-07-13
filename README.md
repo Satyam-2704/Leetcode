@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Satyam-2704/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Satyam-2704/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam-2704/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam-2704/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Satyam-2704/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Satyam-2704/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Satyam-2704/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Satyam-2704/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Satyam-2704/Leetcode/tree/main/0389-find-the-difference/) | Easy |
