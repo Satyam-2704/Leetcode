@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/Satyam-2704/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam-2704/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Two Pointers
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/Satyam-2704/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyam-2704/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satyam-2704/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam-2704/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3941-password-strength](https://github.com/Satyam-2704/Leetcode/tree/main/3941-password-strength/) | Medium |
 ## String
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyam-2704/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satyam-2704/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam-2704/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
