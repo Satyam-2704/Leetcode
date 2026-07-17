@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-2704/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam-2704/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Satyam-2704/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-2704/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam-2704/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Satyam-2704/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-2704/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Dynamic Programming
@@ -263,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Satyam-2704/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
