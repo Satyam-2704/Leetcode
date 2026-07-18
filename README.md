@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/Satyam-2704/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam-2704/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam-2704/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-2704/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam-2704/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Satyam-2704/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Satyam-2704/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-2704/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-2704/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam-2704/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3908-valid-digit-number](https://github.com/Satyam-2704/Leetcode/tree/main/3908-valid-digit-number/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Satyam-2704/Leetcode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Satyam-2704/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-2704/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Satyam-2704/Leetcode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
