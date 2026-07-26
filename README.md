@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/Satyam-2704/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-2704/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam-2704/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam-2704/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Satyam-2704/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyam-2704/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-2704/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Satyam-2704/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Satyam-2704/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-2704/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-2704/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
