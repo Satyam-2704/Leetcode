@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyam-2704/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-2704/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-2704/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-2704/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-2704/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam-2704/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3908-valid-digit-number](https://github.com/Satyam-2704/Leetcode/tree/main/3908-valid-digit-number/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Satyam-2704/Leetcode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
@@ -280,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Satyam-2704/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 <!---LeetCode Topics End-->
