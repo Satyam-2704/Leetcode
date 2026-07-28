@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Satyam-2704/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam-2704/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-2704/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam-2704/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Satyam-2704/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Satyam-2704/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam-2704/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam-2704/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Satyam-2704/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Satyam-2704/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam-2704/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Satyam-2704/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-2704/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Satyam-2704/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam-2704/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/Satyam-2704/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Satyam-2704/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -209,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam-2704/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam-2704/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Satyam-2704/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
