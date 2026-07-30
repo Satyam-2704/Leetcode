@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-2704/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-2704/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-2704/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-2704/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam-2704/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam-2704/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Satyam-2704/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-2704/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Satyam-2704/Leetcode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 | [3941-password-strength](https://github.com/Satyam-2704/Leetcode/tree/main/3941-password-strength/) | Medium |
@@ -299,5 +301,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-2704/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 <!---LeetCode Topics End-->
