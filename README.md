@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam-2704/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Satyam-2704/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0048-rotate-image](https://github.com/Satyam-2704/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Satyam-2704/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Satyam-2704/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Satyam-2704/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Satyam-2704/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Satyam-2704/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-2704/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 <!---LeetCode Topics End-->
