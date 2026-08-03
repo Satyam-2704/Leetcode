@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Satyam-2704/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1046-last-stone-weight](https://github.com/Satyam-2704/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Satyam-2704/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam-2704/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-2704/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-2704/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-2704/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1046-last-stone-weight](https://github.com/Satyam-2704/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-2704/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
