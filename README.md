@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
+| [3731-find-missing-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Two Pointers
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-2704/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyam-2704/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-2704/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satyam-2704/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam-2704/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3731-find-missing-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3941-password-strength](https://github.com/Satyam-2704/Leetcode/tree/main/3941-password-strength/) | Medium |
 ## String
 | Problem Name | Difficulty |
