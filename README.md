@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-2704/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-2704/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-2704/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Satyam-2704/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-2704/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam-2704/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Satyam-2704/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Satyam-2704/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
