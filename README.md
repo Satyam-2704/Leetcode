@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam-2704/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Satyam-2704/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3731-find-missing-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-reverse-only-letters](https://github.com/Satyam-2704/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Satyam-2704/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam-2704/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2540-minimum-common-value](https://github.com/Satyam-2704/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satyam-2704/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam-2704/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2540-minimum-common-value](https://github.com/Satyam-2704/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3731-find-missing-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Satyam-2704/Leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3941-password-strength](https://github.com/Satyam-2704/Leetcode/tree/main/3941-password-strength/) | Medium |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Satyam-2704/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam-2704/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Satyam-2704/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2540-minimum-common-value](https://github.com/Satyam-2704/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
