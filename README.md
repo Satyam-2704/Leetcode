@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Satyam-2704/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Satyam-2704/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam-2704/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/Satyam-2704/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyam-2704/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Satyam-2704/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam-2704/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Satyam-2704/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam-2704/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam-2704/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1544-make-the-string-great](https://github.com/Satyam-2704/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam-2704/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Satyam-2704/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
