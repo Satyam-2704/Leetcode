@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Satyam-2704/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Satyam-2704/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam-2704/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3731-find-missing-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam-2704/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam-2704/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-2704/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam-2704/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Satyam-2704/Leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Stack
