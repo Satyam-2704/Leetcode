@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Satyam-2704/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Satyam-2704/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Satyam-2704/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/Satyam-2704/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0268-missing-number](https://github.com/Satyam-2704/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Satyam-2704/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Satyam-2704/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -369,4 +370,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-2704/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/Satyam-2704/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
