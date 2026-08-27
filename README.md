@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Satyam-2704/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Satyam-2704/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Satyam-2704/Leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [4024-nearest-available-drone](https://github.com/Satyam-2704/Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Satyam-2704/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Satyam-2704/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [4024-nearest-available-drone](https://github.com/Satyam-2704/Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
